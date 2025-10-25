@@ -78,3 +78,27 @@ h4 {
     color: #FFFFFF;
     background-color: #C25100;
 }
+
+#logout {
+    font-family: 'Lobster', cursive;
+}
+
+small #logout{
+    color: #ffffff;
+    border-style: hidden;
+    background: none;
+    font-size: small;
+    margin-right: 0%;
+}
+
+button,
+button:hover,
+button:visited {
+    font-size: 15pt;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.comment {
+    margin: 20px 0px 20px 20px;
+}
